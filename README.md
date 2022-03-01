@@ -8,5 +8,5 @@
   1.  When you die 
   2.  When the townhall is destroyed 
   3.  When you eliminate all enemies
-
-Good Luck
+  
+<b>Good Luck</b>
